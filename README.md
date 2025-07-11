@@ -42,7 +42,7 @@ As someone with ADHD, I built this because:
      type: "location",
      message: "Don't forget your wallet!",
      trigger: "500m from home"
-   }
+   https://ontime-guardian-pro.vercel.app/
 
 
 
